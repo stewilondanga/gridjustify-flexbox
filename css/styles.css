@@ -49,11 +49,11 @@ h1, h2, em {
   font-size: 16pt;
 }
 
-/*.spaceEvenly {
-	justify-content: space-evenly;
+.spaceEvenly {
+  justify-content: space-evenly;
 }
 
-.spaceAround {
+/*.spaceAround {
 	justify-content: space-around;
 }
 

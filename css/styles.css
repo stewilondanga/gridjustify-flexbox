@@ -53,11 +53,11 @@ h1, h2, em {
   justify-content: space-evenly;
 }
 
-/*.spaceAround {
-	justify-content: space-around;
+.spaceAround {
+  justify-content: space-around;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }

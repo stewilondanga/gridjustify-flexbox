@@ -30,13 +30,13 @@ h1, h2, em {
   padding: 5px;
 }
 
-/*.flex {
-	display: flex;
-	flex-direction: row;
-	margin-top: 10px;
+.flex {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
 }
 
-.flex>div {
+/*.flex>div {
 	width: 200px;
 	margin: 5px;
 	padding: 5px;

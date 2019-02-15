@@ -7,15 +7,13 @@ html, body {
   font-family: monospace;
 }
 
-/*
-
 .my_social {
   position: absolute;
   top: 75px;
   left: 25px;
 }
 
-.my_social a {
+/*.my_social a {
   display: inline-block;
   height: 2.5em;
 }

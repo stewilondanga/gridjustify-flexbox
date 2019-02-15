@@ -36,20 +36,20 @@ h1, h2, em {
   margin-top: 10px;
 }
 
-/*.flex>div {
-	width: 200px;
-	margin: 5px;
-	padding: 5px;
-	box-sizing: border-box;
-	background: hsla(170,70%,40%,.5);
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	height: 50px;
-	font-size: 16pt;
+.flex>div {
+  width: 200px;
+  margin: 5px;
+  padding: 5px;
+  box-sizing: border-box;
+  background: hsla(170, 70%, 40%, .5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  font-size: 16pt;
 }
 
-.spaceEvenly {
+/*.spaceEvenly {
 	justify-content: space-evenly;
 }
 
